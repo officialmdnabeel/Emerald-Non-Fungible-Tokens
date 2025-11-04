@@ -1,4 +1,4 @@
-# Emerald Non-Fungible Tokens (NFTs)
+#   [Emerald Non-Fungible Tokens (NFTs)](https://www.linkedin.com/in/mdnabeelemerald/)
 
 This repository contains the on-chain collection and NFT assets for the Emerald Network.
 
